@@ -1,0 +1,1 @@
+This project is to demonstrate basic HTML skills and review git basics.
